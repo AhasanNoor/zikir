@@ -33,7 +33,7 @@ function MorningZ() {
           background: 'transparent'
       }}>পুনরায় শুরু</button>
         <h1>{counter}</h1>
-        <p>{counter >= 10 ? '১০০ বার পড়া সম্পন্ন হইয়েছে' : null}</p>
+        <p>{counter >= 100 ? '১০০ বার পড়া সম্পন্ন হইয়েছে' : null}</p>
     </div>
   );
 }
